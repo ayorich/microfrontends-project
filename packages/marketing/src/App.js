@@ -22,7 +22,6 @@ export default ({ history }) => {
           </Switch>
         </Router>
       </StylesProvider>
-      {/*  */}
     </div>
   );
 };
